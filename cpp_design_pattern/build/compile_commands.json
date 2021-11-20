@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/design-patterns_-yun/cpp_design_pattern/build",
+  "command": "D:\\allSoftware\\visualstudio\\ide\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\cppPattern.dir\\AbstractFactory\\AbstractFactoryPattern.obj /FdCMakeFiles\\cppPattern.dir/ /FS -c E:\\design-patterns_-yun\\cpp_design_pattern\\AbstractFactory\\AbstractFactoryPattern.cpp",
+  "file": "E:/design-patterns_-yun/cpp_design_pattern/AbstractFactory/AbstractFactoryPattern.cpp"
+}
+]

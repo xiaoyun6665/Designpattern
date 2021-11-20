@@ -1,0 +1,9 @@
+{
+   "cmake.cmakePath": "D:\\allSoftware\\visualstudio\\ide\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe",
+   "cmake.generator": "MinGW Makefiles",
+   "files.associations": {
+      "thread": "cpp",
+      "memory": "cpp",
+      "iostream": "cpp"
+   },
+}
