@@ -31,4 +31,3 @@ Using different programming languages to implement design patterns
 |                              |      |      |      |      |        |
 |                              |      |      |      |      |        |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoyun6665)](https://github.com/anuraghazra/github-readme-stats)
